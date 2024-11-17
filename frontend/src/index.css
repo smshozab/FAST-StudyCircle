@@ -1,0 +1,21 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+  }
+  
+  #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f8ff;
+  }
+  
+  a {
+    color: #4A90E2;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
